@@ -1,26 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import TypingText from './TypingText';
 
-function App() {
+const App: React.FC = () => {
+  const [showText, setShowText] = useState(false);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setShowText(true), 1000);
+    return () => clearTimeout(timer);
+  }, []);
+
+  const bio = `
+  # Your name
+  
+  Developer
+  
+  Check out my [GitHub](https://github.com/samhatem) and [Twitter](https://twitter.com/sam__hatem).
+  `;
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {showText && <TypingText text={bio} />}
       </header>
     </div>
   );
-}
+};
 
 export default App;
