@@ -11,7 +11,7 @@ const App: React.FC = () => {
   }, []);
 
   const bio = `
-  # Your name
+  # Sam Hatem
   
   Developer
   
