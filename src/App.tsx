@@ -15,7 +15,7 @@ const App: React.FC = () => {
   
   Developer
   
-  Check out my [GitHub](https://github.com/samhatem) and [Twitter](https://twitter.com/sam__hatem).
+  My [GitHub](https://github.com/samhatem) and [Twitter](https://twitter.com/sam__hatem).
   `;
 
   return (
