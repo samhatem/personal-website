@@ -3,6 +3,7 @@ body {
   font-family: 'Fira Mono', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #f8f8f8;
 }
 
 code {
