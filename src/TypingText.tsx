@@ -8,7 +8,7 @@ interface TypingTextProps {
 
 const TypingText: React.FC<TypingTextProps> = ({ text }) => {
     const [markdown, setMarkdown] = useState('');
-    const [typedText] = useTypewriter({ words: [text], typeSpeed: 20 });
+    const [typedText] = useTypewriter({ words: [text], typeSpeed: 10 });
 
     useEffect(() => {
         setMarkdown(typedText);
