@@ -9,7 +9,7 @@ const bio = `
 
 Previously co-founder at Slide (backed by Framework and Polychain) and engineer at [Polymarket](https://polymarket.com).
 
-Angel investor in companies like [Zeet](https://zeet.co), [Popchew](https://popchew.com), and [Modern Intelligence](https://www.modernintelligence.ai/).
+Some angel investments: [Zeet](https://zeet.co), [Popchew](https://popchew.com), [Modern Intelligence](https://www.modernintelligence.ai/)
 `;
 
 const App: React.FC = () => {
