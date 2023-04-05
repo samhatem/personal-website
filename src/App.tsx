@@ -5,13 +5,11 @@ import TypingText from './TypingText';
 const bio = `
 # Sam Hatem
 
-[GitHub](https://github.com/samhatem) [Twitter](https://twitter.com/sam__hatem)
+[GitHub](https://github.com/samhatem) [Twitter](https://twitter.com/sam__hatem) [me@samhatem.xyz](mailto:me@samhatem.xyz)
 
 Previously co-founder at Slide (backed by Framework and Polychain) and engineer at [Polymarket](https://polymarket.com).
 
-Some angel investments: [Zeet](https://zeet.co), [Popchew](https://popchew.com), [Modern Intelligence](https://www.modernintelligence.ai/)
-
-Email: me@samhatem.xyz
+Angel investor in [Zeet](https://zeet.co), [Popchew](https://popchew.com), [Modern Intelligence](https://www.modernintelligence.ai/)
 `;
 
 const App: React.FC = () => {
