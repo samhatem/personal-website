@@ -10,6 +10,8 @@ const bio = `
 Previously co-founder at Slide (backed by Framework and Polychain) and engineer at [Polymarket](https://polymarket.com).
 
 Some angel investments: [Zeet](https://zeet.co), [Popchew](https://popchew.com), [Modern Intelligence](https://www.modernintelligence.ai/)
+
+Email: me@samhatem.xyz
 `;
 
 const App: React.FC = () => {
