@@ -5,11 +5,13 @@ import TypingText from './TypingText';
 const bio = `
 # Sam Hatem
 
-[GitHub](https://github.com/samhatem) [Twitter](https://twitter.com/sam__hatem) [me@samhatem.xyz](mailto:me@samhatem.xyz)
+[Twitter](https://twitter.com/sam__hatem) [GitHub](https://github.com/samhatem) [me@samhatem.xyz](mailto:me@samhatem.xyz)
 
-Previously co-founder at Slide (backed by Framework and Polychain) and engineer at [Polymarket](https://polymarket.com).
+Working on [onchain.pro](https://onchain.pro).
 
-Angel investor in [Antimetal](https://www.antimetal.com/), [Silna](https://www.silnahealth.com/), [Prophetic](https://propheticai.co/), [Vultron](https://www.vultron.ai/), [Modern Intelligence](https://www.modernintelligence.ai/), [Zeet](https://zeet.co), [Popchew](https://popchew.com)
+Previous experience includes building early infrastucutre at [Polymarket](https://polymarket.com) and raising $12m for a startup (and then later giving it back).
+
+Angel investor in [Antimetal](https://www.antimetal.com/) (seed), [Silna](https://www.silnahealth.com/) (seed), [Prophetic](https://propheticai.co/) (pre-seed), [Vultron](https://www.vultron.ai/) (pre-seed), [Modern Intelligence](https://www.modernintelligence.ai/) (seed), and [Praxis](https://www.praxisnation.com/) (prior to any VC funding).
 `;
 
 const App: React.FC = () => {
