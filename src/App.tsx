@@ -7,7 +7,7 @@ const bio = `
 
 [Twitter](https://twitter.com/sam__hatem) [GitHub](https://github.com/samhatem) [me@samhatem.xyz](mailto:me@samhatem.xyz)
 
-Previous experience includes building early infrastucutre at [Polymarket](https://polymarket.com) and raising $12m for a startup (and then later giving it back).
+Building [ChainPro](https://chainpro.xyz). Previously built early infrastucutre at [Polymarket](https://polymarket.com).
 
 Angel investor in [Antimetal](https://www.antimetal.com/) (seed), [Silna](https://www.silnahealth.com/) (seed), [Prophetic](https://propheticai.co/) (pre-seed), [Vultron](https://www.vultron.ai/) (pre-seed), [Modern Intelligence](https://www.modernintelligence.ai/) (seed), [Tenkara](https://www.trytenkara.com/) (pre-seed) and [Praxis](https://www.praxisnation.com/) (prior to any VC funding).
 `;
